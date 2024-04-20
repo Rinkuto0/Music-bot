@@ -5,7 +5,7 @@ module.exports = {
         global: true,
         guild: 'xxx',
         ExtraMessages: false,
-        loopMessage: false,
+        loopMessage: true,
 
     },
 
