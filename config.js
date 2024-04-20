@@ -18,7 +18,7 @@ module.exports = {
         maxVol: 200,
         spotifyBridge: true,
         volume: 85,
-        leaveOnEmpty: true,
+        leaveOnEmpty: false,
         leaveOnEmptyCooldown: 30000,
         leaveOnEnd: true,
         leaveOnEndCooldown: 30000,
