@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         token: 'xxx',
-        playing: 'by Zerio ❤️',
+        playing: 'Get rumbled, Stay humbled🗣🗣🔥🔥🙏',
         global: true,
         guild: 'xxx',
         ExtraMessages: false,
@@ -15,9 +15,9 @@ module.exports = {
             roleName: '',
             commands: []
         },
-        maxVol: 100,
+        maxVol: 200,
         spotifyBridge: true,
-        volume: 75,
+        volume: 85,
         leaveOnEmpty: true,
         leaveOnEmptyCooldown: 30000,
         leaveOnEnd: true,
