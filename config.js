@@ -20,7 +20,7 @@ module.exports = {
         volume: 85,
         leaveOnEmpty: false,
         leaveOnEmptyCooldown: 30000,
-        leaveOnEnd: true,
+        leaveOnEnd: false,
         leaveOnEndCooldown: 30000,
         discordPlayer: {
             ytdlOptions: {
